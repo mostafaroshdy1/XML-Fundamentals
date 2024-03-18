@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<employees>
+    <employee>
+        <name>John Doe</name>
+        <phones>
+            <phone type="home">123-456-7890</phone>
+            <phone type="mobile">987-654-3210</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>123 Main St</street>
+                <building_number>1</building_number>
+                <region>North</region>
+                <city>Cityville</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>john.doe@example.com</email>
+    </employee>
+    <employee>
+        <name>Jane Smith</name>
+        <phones>
+            <phone type="work">456-789-0123</phone>
+            <phone type="mobile">555-555-5555</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>456 Elm St</street>
+                <building_number>2</building_number>
+                <region>South</region>
+                <city>Townsville</city>
+                <country>Countryland</country>
+            </address>
+            <address>
+                <street>789 Oak St</street>
+                <building_number>3</building_number>
+                <region>West</region>
+                <city>Villageton</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>jane.smith@example.com</email>
+    </employee>
+    <employee>
+        <name>Michael Johnson</name>
+        <phones>
+            <phone type="home">111-222-3333</phone>
+            <phone type="mobile">444-555-6666</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>789 Pine St</street>
+                <building_number>4</building_number>
+                <region>East</region>
+                <city>Greenville</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>michael.johnson@example.com</email>
+    </employee>
+    <employee>
+        <name>Sarah Williams</name>
+        <phones>
+            <phone type="work">777-888-9999</phone>
+            <phone type="mobile">101-202-3030</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>987 Maple Ave</street>
+                <building_number>5</building_number>
+                <region>West</region>
+                <city>Rivertown</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>sarah.williams@example.com</email>
+    </employee>
+    <employee>
+        <name>David Brown</name>
+        <phones>
+            <phone type="home">333-444-5555</phone>
+            <phone type="mobile">666-777-8888</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>123 Oak St</street>
+                <building_number>6</building_number>
+                <region>North</region>
+                <city>Hilltown</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>david.brown@example.com</email>
+    </employee>
+    <employee>
+        <name>Emily Garcia</name>
+        <phones>
+            <phone type="work">999-888-7777</phone>
+            <phone type="mobile">222-333-4444</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>456 Cedar St</street>
+                <building_number>7</building_number>
+                <region>South</region>
+                <city>Mountainview</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>emily.garcia@example.com</email>
+    </employee>
+    <employee>
+        <name>James Rodriguez</name>
+        <phones>
+            <phone type="home">111-999-8888</phone>
+            <phone type="mobile">777-555-4444</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>789 Walnut St</street>
+                <building_number>8</building_number>
+                <region>East</region>
+                <city>Valley City</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>james.rodriguez@example.com</email>
+    </employee>
+    <employee>
+        <name>Olivia Martinez</name>
+        <phones>
+            <phone type="work">333-222-1111</phone>
+            <phone type="mobile">888-777-6666</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>987 Pine St</street>
+                <building_number>9</building_number>
+                <region>West</region>
+                <city>Oakville</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>olivia.martinez@example.com</email>
+    </employee>
+    <employee>
+        <name>Daniel Wilson</name>
+        <phones>
+            <phone type="home">555-666-7777</phone>
+            <phone type="mobile">222-333-4444</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>123 Cedar St</street>
+                <building_number>10</building_number>
+                <region>North</region>
+                <city>Springfield</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>daniel.wilson@example.com</email>
+    </employee>
+    <employee>
+        <name>Isabella Anderson</name>
+        <phones>
+            <phone type="work">777-666-5555</phone>
+            <phone type="mobile">111-222-3333</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>456 Elm St</street>
+                <building_number>11</building_number>
+                <region>South</region>
+                <city>Harbor City</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>isabella.anderson@example.com</email>
+    </employee>
+    <employee>
+        <name>Alexander Taylor</name>
+        <phones>
+            <phone type="home">999-888-7777</phone>
+            <phone type="mobile">444-555-6666</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>789 Maple St</street>
+                <building_number>12</building_number>
+                <region>East</region>
+                <city>Lakeside</city>
+                <country>Countryland</country>
+            </address>
+        </addresses>
+        <email>alexander.taylor@example.com</email>
+    </employee>
+</employees>
