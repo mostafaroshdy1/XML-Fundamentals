@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<library>
+    <location>Alexandria</location>
+    <description>A public library serving the community with a vast collection of books.</description>
+    <librarian>
+        <name>Mostafa Roshdy</name>
+        <email>mostafaroshdy1@gmail.com</email>
+    </librarian>
+    <books>
+        <book>
+            <title>Introduction to Programming</title>
+            <isbn>978-1-234567-89-0</isbn>
+            <author>John Smith</author>
+            <preface>
+                <content>This book provides an introduction to programming concepts.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Getting Started</title>
+                    <chapters>
+                        <chapter>
+                            <title>Introduction</title>
+                            <summary>An overview of programming.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>This chapter introduces basic programming concepts.</paragraph>
+                                    <paragraph>We'll start by understanding variables and data types.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>The Great Gatsby</title>
+            <isbn>978-0-7432-7356-5</isbn>
+            <author>F. Scott Fitzgerald</author>
+            <preface>
+                <content>This is a novel set in the 1920s, depicting the roaring twenties era.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1</title>
+                            <summary>An introduction to the main characters and setting.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>The story begins with the narrator's recollection of advice from his father.</paragraph>
+                                    <paragraph>We're introduced to Nick Carraway, the narrator, and his move to Long Island.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>To Kill a Mockingbird</title>
+            <isbn>978-0-06-112008-4</isbn>
+            <author>Harper Lee</author>
+            <preface>
+                <content>This novel explores themes of racial injustice and moral growth.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Chapter 1</title>
+                            <summary>An introduction to the Finch family and the town of Maycomb.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>The story begins with Scout Finch reminiscing about her brother, Jem, breaking his arm.</paragraph>
+                                    <paragraph>We're introduced to the main characters, Atticus Finch, Jem Finch, and Scout Finch.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>
